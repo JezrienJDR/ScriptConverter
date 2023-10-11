@@ -1,0 +1,16 @@
+Bob What are you doing here?
+Alice We heard about what happened. ~You can't face this alone.
+Bob But why are *you* here? Why did it have to be you?
+She takes the amulet out of her pocket.
+Alice Because of this.
+pause
+Alice Bob, why did you hide this from me? ^This changes everything.
+Bob I knew you'd be tempted to use it. ~Only for good, but still...
+Bob This power can't be controlled. The world just isn't ready for it.
+Alice Not by you... ~alone.
+Alice Or by me.
+He looks up.
+Alice But maybe together...
+# SFX: helicopter approaching in the distance.
+Bob Dammit. They've found us.
+Bob Put that thing away and follow me. ~There's a secret back exit.
